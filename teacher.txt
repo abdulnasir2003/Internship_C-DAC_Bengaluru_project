@@ -1,0 +1,8 @@
+Q1.What is Machine Learning?
+A1: Machine Learning is a part of Artificial Intelligence where computers learn from data and
+improve automatically.
+
+Q2.What is Supervised Learning?
+A2: Supervised Learning is a type of Machine Learning where the model is trained using
+labeled data. It learns the relationship between input and output and is used for classification and
+regression.

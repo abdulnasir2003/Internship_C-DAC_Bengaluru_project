@@ -1,0 +1,7 @@
+streamlit
+easyocr
+opencv-python
+numpy
+scikit-learn
+textblob
+rapidfuzz
